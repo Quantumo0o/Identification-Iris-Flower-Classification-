@@ -27,7 +27,7 @@ The `classify_iris_csv.py` file contains the Python code for building and evalua
 1.  **Clone the repository:**
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/Quantumo0o/Identification-Iris-Flower-Classification
     cd iris-species-classification
     ```
 
